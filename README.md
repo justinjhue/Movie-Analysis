@@ -37,10 +37,8 @@ I recommend Microsoft mimic Disney's business practices as much as possible. Thi
 Out of the list of genres, Animation, Sci-Fi, and Adventure make up the greatest revenue across all titles collectively. If the end goal is maximum gross, I recommend creating titles in, at minimum, one of these three genres.
 ***
 
-Here is an example of how to embed images from your sub-folder:
-
 ### Visual 1
-![graph1](./images/Ratings x Gross graph.png)
+![graph1](https://raw.githubusercontent.com/justinjhue/Movie-Analysis/template-mvp/images/Ratings%20x%20Gross%20graph.png)
 
 ## Conclusions
 
