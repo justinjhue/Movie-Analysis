@@ -40,7 +40,7 @@ The target variable here is the average rating of the movies cross-referenced wi
 ***
 
 ### Visual 1
-![graph1](https://raw.githubusercontent.com/justinjhue/Movie-Analysis/template-mvp/images/Ratings%20x%20Gross%20graph.png)
+![graph1](https://github.com/justinjhue/Movie-Analysis/blob/template-mvp/images/gross_rating_scatter.png)
 
 ## Conclusions
 
