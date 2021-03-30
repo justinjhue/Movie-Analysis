@@ -32,9 +32,11 @@ The target variable here is the average rating of the movies cross-referenced wi
 
 ## Results
 ***
-* I personally believe these results yield actionable information that can be used to get a foot into the movie business as a major player. Out of the top 10 studios, Disney(BV) makes the most domestic gross on average.
-I recommend Microsoft mimic Disney's business practices as much as possible. This includes collaborating with the actors, directors, and producers a part of their most successful titles.
-Out of the list of genres, Animation, Sci-Fi, and Adventure make up the greatest revenue across all titles collectively. If the end goal is maximum gross, I recommend creating titles in, at minimum, one of these three genres.
+* I personally believe these results yield actionable information that can be used to get a foot into the movie business as a major player. 
+* Out of the top 10 studios, Disney(BV) makes the most domestic gross on average.
+* I recommend Microsoft mimic Disney's business practices as much as possible. This includes collaborating with the actors, directors, and producers a part of their most successful titles.
+* Out of the list of genres, Animation, Sci-Fi, and Adventure make up the greatest revenue across all titles collectively. If the end goal is maximum gross, I recommend creating titles in, at minimum, one of these three genres.
+* Based off of my data, there is no direct correlation between the rating of a movie and gross.
 ***
 
 ### Visual 1
