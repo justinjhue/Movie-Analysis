@@ -52,7 +52,7 @@ In order to improve this project in the future, I could use more data from more 
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./Movie-Analysis.ipynb) or our [presentation](https://github.com/justinjhue/Movie-Analysis/blob/template-mvp/Slides%20Edit%20PDF.pdf).
+Please review our full analysis in [my Jupyter Notebook](./Movie-Analysis.ipynb) or my [presentation](https://github.com/justinjhue/Movie-Analysis/blob/template-mvp/Slides%20Edit%20PDF.pdf).
 
 For any additional questions, please contact **Justin Hue | justinhccnm@outlook.com**
 
